@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "0e31bdcf-3336-4c84-8fe6-7ff22ce27c37": {
+      "label": "FF0113",
+      "is_offline": false,
+      "file_url": "https://aviary-p-jmu.s3.wasabisys.com/collection_resource_files/resource_files/000/258/140/original/open-uri20241209-779319-nv4c6j.mp4",
+      "duration": 3398
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "FF0113",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Interviews with poets at the 1994 Furious Flower Conference. Featured in this video is Toi Derricotte interviewed by Opal Moore, Haki Madhubuti interviewed by Sonia Sanchez, and Naomi Long Madgett interviewed by Eleanor Traylor."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-06T20:07:15.679Z",
+  "created_by": "JMU-AudiAnnotate",
+  "updated_at": "2025-03-06T20:07:15.679Z",
+  "updated_by": "JMU-AudiAnnotate"
+}
